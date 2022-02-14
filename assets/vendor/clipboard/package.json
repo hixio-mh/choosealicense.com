@@ -35,7 +35,7 @@
     "karma-mocha": "^0.2.0",
     "karma-phantomjs-launcher": "^0.2.1",
     "karma-sinon": "^1.0.4",
-    "mocha": "^2.3.3",
+    "mocha": "^4.0.0",
     "phantomjs-polyfill": "0.0.1",
     "uglify-js": "^2.4.24",
     "watchify": "^3.4.0",
